@@ -1,0 +1,433 @@
+flight_id,flight_type,flight_from,flight_from_airport,flight_to,flight_to_airport
+RYR9098,B738,Alicante,LEAL,Kaunas Int'l,EYKA
+RYR9137,B738,Budapest Ferenc Liszt International Airport,LHBP,Cork Int'l,EICK
+RYR9139,B738,Dole-Tavaux,LFGJ,Porto / Oporto,LPPR
+RYR9163,B738,Birmingham Int'l,EGBB,Barcelona Int'l,LEBL
+RYR9229,B738,Dublin Int'l,EIDW,Kyiv Boryspil Int'l,UKBB
+RYR9622,B738,Liverpool John Lennon,EGGP,Vilnius Int'l,EYVI
+RYR973,B738,Genoa Cristoforo Colombo (Sestri),LIMJ,London Stansted,EGSS
+RYR9779,B738,Casale,LIBR,None,None
+RYR9863,B738,Malaga,LEMG,Liverpool John Lennon,EGGP
+RYR9943,B738,Cork Int'l,EICK,Arrecife (Lanzarote),GCRR
+RYR9948,B738,Faro,LPFR,Cork Int'l,EICK
+RYR9965,B738,Palermo Int'l (Punta Raisi Falcone-Borsellino),LICJ,Barajas Int'l,LEMD
+RYR5231,B738,Ibiza,LEIB,San Pablo,LEZL
+RYR5272,B738,San Pablo,LEZL,Palma de Mallorca (or Son Sant Joan),LEPA
+RYR5346,B738,Dublin Int'l,EIDW,Int'l Katowice in Pyrzowice,EPKT
+RYR5489,B738,Weeze,EDLV,Porto / Oporto,LPPR
+RYR581,B738,Ibiza,LEIB,Vienna Int'l (Schwechat),LOWW
+RYR5944,B738,Bournemouth,EGHH,Malaga,LEMG
+RYR6042,B738,Podgorica,LYPG,Brussels South Charleroi,EBCI
+RYR6329,B738,Sofia Airport,LBSF,Barcelona Int'l,LEBL
+RYR633,B738,Copenhagen,EKCH,Dublin Int'l,EIDW
+RYR6446,B738,Brussels South Charleroi,EBCI,"Thessaloniki Int'l, Makedonia",LGTS
+RYR6465,B738,Zadar,LDZD,Brussels South Charleroi,EBCI
+RYR6532,B738,Porto / Oporto,LPPR,Marseille Provence,LFML
+RYR6611,B738,London Stansted,EGSS,Kefalonia Island Int'l,LGKF
+RYR6758,B738,Vienna Int'l (Schwechat),LOWW,Aktion National (Lefkada),LGPZ
+RYR68,B738,Berlin,EDDB,None,None
+RYR6907,B738,Int'l Katowice in Pyrzowice,EPKT,Cork Int'l,EICK
+RYR7063,B738,Alicante,LEAL,Dublin Int'l,EIDW
+RYR7122,B738,Dublin Int'l,EIDW,Tenerife South (Reina Sofia),GCTS
+RYR7127,B738,Gran Canaria Int'l,GCLP,Dublin Int'l,EIDW
+RYR7129,B738,El Matorral,GCFV,Dublin Int'l,EIDW
+RYR7199,B738,Dublin Int'l,EIDW,Arrecife (Lanzarote),GCRR
+RYR7226,B738,Bristol Int'l,EGGD,Krakow Int'l,EPKK
+RYR7242,B738,Dublin Int'l,EIDW,Malta Int'l (Luqa),LMML
+RYR7289,B738,Vienna Int'l (Schwechat),LOWW,Santander,LEXJ
+RYR7291,B738,Vienna Int'l (Schwechat),LOWW,General Humberto Delgado Airport,LPPT
+RYR7327,B738,Václav Havel Airport,LKPR,Dublin Int'l,EIDW
+RYR7346,B738,Dublin Int'l,EIDW,Bucharest Henri Coandă Int'l,LROP
+RYR7429,B738,Alicante,LEAL,Vaxjo (Kronoberg),ESMX
+RYR8053,B738,Ioannis Kapodistrias Int'l,LGKR,Budapest Ferenc Liszt International Airport,LHBP
+RYR8133,B738,Gran Canaria Int'l,GCLP,London Stansted,EGSS
+RYR8263,B738,Orio al Serio Int'l,LIME,Bristol Int'l,EGGD
+RYR8378,B738,London Stansted,EGSS,Santiago de Compostela,LEST
+RYR8422,B738,El Matorral,GCFV,Edinburgh,EGPH
+RYR8507,B738,"Sandefjord, Torp",ENTO,Krakow Int'l,EPKK
+RYR8555,B738,London Stansted,EGSS,Castellón–Costa Azahar,LECH
+RYR8822,B738,Shannon,EINN,Kaunas Int'l,EYKA
+RYR8975,B738,Alicante,LEAL,London Stansted,EGSS
+RYR8YQ,B738,None,None,None,None
+RYR4967,B738,Lamezia Terme Int'l,LICA,London Stansted,EGSS
+RYR12,B738,"Athens Int'l, Eleftherios Venizelos",LGAV,London Stansted,EGSS
+RYR129,B738,Hamburg,EDDH,Barcelona Int'l,LEBL
+RYR1300,B738,Brussels South Charleroi,EBCI,General Humberto Delgado Airport,LPPT
+RYR1347,B738,Tenerife South (Reina Sofia),GCTS,Shannon,EINN
+RYR1544,B738,Ioannis Kapodistrias Int'l,LGKR,Václav Havel Airport,LKPR
+RYR169,B738,Friuli Venezia Giulia (Trieste Ronchi dei Legionari),LIPQ,London Stansted,EGSS
+RYR1916,B738,Brussels South Charleroi,EBCI,Malaga,LEMG
+RYR1989,B738,Ioannis Kapodistrias Int'l,LGKR,Dublin Int'l,EIDW
+RYR2107,B738,Manchester,EGCC,Ioannis Kapodistrias Int'l,LGKR
+RYR215,B738,Malpensa Int'l,LIMC,Vienna Int'l (Schwechat),LOWW
+RYR2150,B738,Alicante,LEAL,Birmingham Int'l,EGBB
+RYR2157,B738,Malaga,LEMG,Birmingham Int'l,EGBB
+RYR2169,B738,Valladolid,LEVD,Palma de Mallorca (or Son Sant Joan),LEPA
+RYR2245,B738,Vilnius Int'l,EYVI,London Stansted,EGSS
+RYR2256,B738,Valencia,LEVC,Cologne Bonn,EDDK
+RYR2486,B738,Leeds Bradford Int'l,EGNM,Ibiza,LEIB
+RYR2513,B738,Barajas Int'l,LEMD,Bucharest Henri Coandă Int'l,LROP
+RYR2521,B738,Alicante,LEAL,Glasgow Int'l,EGPF
+RYR2575,B738,Malaga,LEMG,Eindhoven,EHEH
+RYR259,B738,Riga Int'l,EVRA,None,None
+RYR2608,B738,Malaga,LEMG,Glasgow Int'l,EGPF
+RYR2635,B738,Zaragoza,LEZG,London Stansted,EGSS
+RYR2711,B738,Birmingham Int'l,EGBB,Ibiza,LEIB
+RYR2747,B738,Kaunas Int'l,EYKA,London Stansted,EGSS
+RYR279,B738,Palma de Mallorca (or Son Sant Joan),LEPA,Tegel Int'l,EDDT
+RYR2804,B738,Palma de Mallorca (or Son Sant Joan),LEPA,London Southend,EGMC
+RYR2916,B738,Palma de Mallorca (or Son Sant Joan),LEPA,Brussels,EBBR
+RYR2924,B738,Malaga,LEMG,Brussels,EBBR
+RYR3572,B738,Goteborg,ESGG,"Thessaloniki Int'l, Makedonia",LGTS
+RYR373,B738,Biarritz,LFBZ,London Stansted,EGSS
+RYR3851,B738,"Rhodes Int'l, Diagoras",LGRP,East Midlands,EGNX
+RYR3853,B738,Ioannis Kapodistrias Int'l,LGKR,East Midlands,EGNX
+RYR3965,B738,Federico Fellini Int'l,LIPR,Kaunas Int'l,EYKA
+RYR4079,B738,Alicante,LEAL,Newcastle,EGNT
+RYR423,B738,London Luton,EGGW,Cork Int'l,EICK
+RYR4332,B738,Manchester,EGCC,Tenerife South (Reina Sofia),GCTS
+RYR4449,B738,Marseille Provence,LFML,Ibiza,LEIB
+RYR4485,B738,"Thessaloniki Int'l, Makedonia",LGTS,Nuremberg,EDDN
+RYR4555,B738,Modlin,EPMO,Faro,LPFR
+RYR4754,B738,Tenerife South (Reina Sofia),GCTS,Bristol Int'l,EGGD
+RYR8859,B738,Budapest Ferenc Liszt International Airport,LHBP,General Humberto Delgado Airport,LPPT
+RYR8868,B738,London Stansted,EGSS,Tours Val de Loire,LFOT
+RYR9138,B738,Porto / Oporto,LPPR,Dole-Tavaux,LFGJ
+RYR9162,B738,Barcelona Int'l,LEBL,Birmingham Int'l,EGBB
+RYR937,B738,Perpignan Rivesaltes,LFMP,London Stansted,EGSS
+RYR9387,B738,Barcelona Int'l,LEBL,East Midlands,EGNX
+RYR9648,B738,Liverpool John Lennon,EGGP,Copernicus Wrocław,EPWR
+RYR972,B738,London Stansted,EGSS,Genoa Cristoforo Colombo (Sestri),LIMJ
+RYR9778,B738,Galileo Galilei (Pisa Int'l),LIRP,None,None
+RYR9853,B738,London Gatwick,EGKK,Cork Int'l,EICK
+RYR9893,B738,Malaga,LEMG,Liverpool John Lennon,EGGP
+RYR99,B738,Orio al Serio Int'l,LIME,None,None
+RYR5624,B738,Manchester,EGCC,Galileo Galilei (Pisa Int'l),LIRP
+RYR5681,B738,London Stansted,EGSS,Eindhoven,EHEH
+RYR580,B738,Vienna Int'l (Schwechat),LOWW,Ibiza,LEIB
+RYR6041,B738,Brussels South Charleroi,EBCI,Podgorica,LYPG
+RYR6312,B738,Brussels South Charleroi,EBCI,Faro,LPFR
+RYR6375,B738,Beauvais Tille,LFOB,Barcelona Int'l,LEBL
+RYR6385,B738,Santander,LEXJ,Barcelona Int'l,LEBL
+RYR6421,B738,Kyiv Boryspil Int'l,UKBB,Barajas Int'l,LEMD
+RYR6464,B738,Brussels South Charleroi,EBCI,Zadar,LDZD
+RYR663X,B738,None,None,None,None
+RYR6657,B738,Palma de Mallorca (or Son Sant Joan),LEPA,Edinburgh,EGPH
+RYR6696,B738,Malta Int'l (Luqa),LMML,Edinburgh,EGPH
+RYR6834,B738,Naples Int'l (Capodichino),LIRN,Manchester,EGCC
+RYR7035,B738,Faro,LPFR,Dublin Int'l,EIDW
+RYR7045,B738,Malaga,LEMG,Dublin Int'l,EIDW
+RYR7073,B738,Porto / Oporto,LPPR,Dublin Int'l,EIDW
+RYR7112,B738,Szczecin,EPSC,Liverpool John Lennon,EGGP
+RYR7125,B738,Arrecife (Lanzarote),GCRR,Dublin Int'l,EIDW
+RYR7162,B738,Ben Gurion Int'l,LLBG,Vienna Int'l (Schwechat),LOWW
+RYR7263,B738,Kyiv Boryspil Int'l,UKBB,Krakow Int'l,EPKK
+RYR7723,B738,Gran Canaria Int'l,GCLP,San Pablo,LEZL
+RYR7785,B738,Malaga,LEMG,London Luton,EGGW
+RYR8006,B738,Aberdeen,EGPD,Alicante,LEAL
+RYR8163,B738,Malaga,LEMG,London Stansted,EGSS
+RYR8167,B738,Tenerife South (Reina Sofia),GCTS,London Stansted,EGSS
+RYR8183,B738,El Matorral,GCFV,London Stansted,EGSS
+RYR8262,B738,Bristol Int'l,EGGD,Orio al Serio Int'l,LIME
+RYR8289,B738,Arrecife (Lanzarote),GCRR,London Stansted,EGSS
+RYR8364,B738,San Pablo,LEZL,London Stansted,EGSS
+RYR8418,B738,Ciampino (Giovan Battista Pastine),LIRA,Budapest Ferenc Liszt International Airport,LHBP
+RYR843,B738,Kerry (Farranfore),EIKY,London Luton,EGGW
+RYR8452,B738,Gdansk Lech Walesa,EPGD,None,None
+RYR8508,B738,Krakow Int'l,EPKK,"Sandefjord, Torp",ENTO
+RYR8512,B738,Hamburg,EDDH,Dublin Int'l,EIDW
+RYR8742,B738,Malta Int'l (Luqa),LMML,Bournemouth,EGHH
+RYR1122,B738,Tenerife South (Reina Sofia),GCTS,Birmingham Int'l,EGBB
+RYR1279,B738,Manchester,EGCC,Marco Polo Int'l (Marco Polo Venice),LIPZ
+RYR128,B738,Barcelona Int'l,LEBL,Hamburg,EDDH
+RYR1386,B738,Brussels South Charleroi,EBCI,Porto / Oporto,LPPR
+RYR1502,B738,"Oslo, Gardermoen",ENGM,Vilnius Int'l,EYVI
+RYR1961,B738,Tenerife South (Reina Sofia),GCTS,San Pablo,LEZL
+RYR2132,B738,Arrecife (Lanzarote),GCRR,Manchester,EGCC
+RYR214,B738,Vienna Int'l (Schwechat),LOWW,Malpensa Int'l,LIMC
+RYR2156,B738,Birmingham Int'l,EGBB,Malaga,LEMG
+RYR2168,B738,Palma de Mallorca (or Son Sant Joan),LEPA,Valladolid,LEVD
+RYR2548,B738,Stockholm-Skavsta,ESKN,Malaga,LEMG
+RYR2574,B738,Santiago de Compostela,LEST,Malaga,LEMG
+RYR2634,B738,London Stansted,EGSS,Zaragoza,LEZG
+RYR2803,B738,London Southend,EGMC,Palma de Mallorca (or Son Sant Joan),LEPA
+RYR2863,B738,Luxembourg Int'l,ELLX,Porto / Oporto,LPPR
+RYR2915,B738,Brussels,EBBR,Palma de Mallorca (or Son Sant Joan),LEPA
+RYR3039,B738,Barcelona Int'l,LEBL,Václav Havel Airport,LKPR
+RYR3173,B738,Arrecife (Lanzarote),GCRR,East Midlands,EGNX
+RYR3711,B738,Birmingham Int'l,EGBB,Faro,LPFR
+RYR3902,B738,Malta Int'l (Luqa),LMML,Birmingham Int'l,EGBB
+RYR3964,B738,Kaunas Int'l,EYKA,Federico Fellini Int'l,LIPR
+RYR4048,B738,Copenhagen,EKCH,Malaga,LEMG
+RYR4088,B738,Manchester,EGCC,Faro,LPFR
+RYR4206,B738,Ioannis Kapodistrias Int'l,LGKR,Liverpool John Lennon,EGGP
+RYR4267,B738,"Verona (Villafranca Int'l, Valerio Catullo)",LIPX,Dublin Int'l,EIDW
+RYR429,B738,Dublin Int'l,EIDW,None,None
+RYR4567,B738,Figari Sud Corse,LFKF,Brussels South Charleroi,EBCI
+RYR4756,B738,Arrecife (Lanzarote),GCRR,Bristol Int'l,EGGD
+RYR51,B738,General Humberto Delgado Airport,LPPT,None,None
+RYR5161,B738,Sofia Airport,LBSF,Edinburgh,EGPH
+RYR5273,B738,Palma de Mallorca (or Son Sant Joan),LEPA,San Pablo,LEZL
+RYR5332,B738,Biarritz,LFBZ,Brussels South Charleroi,EBCI
+RYR5488,B738,Porto / Oporto,LPPR,Weeze,EDLV
+RYR5611,B738,Palanga Int'l,EYPA,Dublin Int'l,EIDW
+RYR9057,B738,Bremen,EDDW,Alicante,LEAL
+RYR9067,B738,Billund,EKBI,Alicante,LEAL
+RYR9143,B738,Faro,LPFR,London Stansted,EGSS
+RYR9431,B738,Ciampino (Giovan Battista Pastine),LIRA,Dublin Int'l,EIDW
+RYR9887,B738,Alicante,LEAL,Liverpool John Lennon,EGGP
+RYR9962,B738,Sofia Airport,LBSF,London Stansted,EGSS
+RYR4966,B738,London Stansted,EGSS,Lamezia Terme Int'l,LICA
+RYR5007,B738,Václav Havel Airport,LKPR,Malaga,LEMG
+RYR5202,B738,Berlin,EDDB,San Pablo,LEZL
+RYR5561,B738,Nantes Atlantique,LFRS,Valencia,LEVC
+RYR5711,B738,Naples Int'l (Capodichino),LIRN,Barcelona Int'l,LEBL
+RYR632,B738,Dublin Int'l,EIDW,Copenhagen,EKCH
+RYR6391,B738,Girona-Costa Brava,LEGE,Weeze,EDLV
+RYR63GY,B738,Barcelona Int'l,LEBL,None,None
+RYR6457,B738,Ibiza,LEIB,Brussels South Charleroi,EBCI
+RYR656,B738,Malaga,LEMG,Glasgow Prestwick Int'l,EGPK
+RYR69,B738,Kaunas Int'l,EYKA,None,None
+RYR7062,B738,Dublin Int'l,EIDW,Alicante,LEAL
+RYR7087,B738,Valencia,LEVC,Dublin Int'l,EIDW
+RYR7111,B738,Liverpool John Lennon,EGGP,Szczecin,EPSC
+RYR712,B738,London Stansted,EGSS,Aarhus,EKAH
+RYR7329,B738,General Humberto Delgado Airport,LPPT,Dublin Int'l,EIDW
+RYR7331,B738,"Kos Island Int'l, Ippokratis (Hippocrates)",LGKO,Vienna Int'l (Schwechat),LOWW
+RYR7367,B738,Dublin Int'l,EIDW,Vienna Int'l (Schwechat),LOWW
+RYR7383,B738,Copenhagen,EKCH,London Stansted,EGSS
+RYR7412,B738,Eindhoven,EHEH,Faro,LPFR
+RYR7418,B738,Beauvais Tille,LFOB,Faro,LPFR
+RYR1053,B738,Václav Havel Airport,LKPR,Edinburgh,EGPH
+RYR1081,B738,General Humberto Delgado Airport,LPPT,London Stansted,EGSS
+RYR1123,B738,Tenerife South (Reina Sofia),GCTS,Santiago de Compostela,LEST
+RYR1270,B738,Orio al Serio Int'l,LIME,"Athens Int'l, Eleftherios Venizelos",LGAV
+RYR1315,B738,Belfast Int'l,EGAA,Malaga,LEMG
+RYR1495,B738,Pardubice,LKPD,Alicante,LEAL
+RYR1878,B738,Allgau,EDJA,"Thessaloniki Int'l, Makedonia",LGTS
+RYR206,B738,None,None,None,None
+RYR2193,B738,Malaga,LEMG,London Southend,EGMC
+RYR2329,B738,Limoges-Bellegarde,LFBL,Leeds Bradford Int'l,EGNM
+RYR2623,B738,General Humberto Delgado Airport,LPPT,Ponta Delgada Joao Paulo II,LPPD
+RYR2627,B738,Ibiza,LEIB,Manchester,EGCC
+RYR2715,B738,London Gatwick,EGKK,Alicante,LEAL
+RYR2928,B738,Brussels,EBBR,Porto / Oporto,LPPR
+RYR3187,B738,Manchester,EGCC,Barajas Int'l,LEMD
+RYR3217,B738,Orio al Serio Int'l,LIME,Manchester,EGCC
+RYR323Y,B738,Manchester,EGCC,None,None
+RYR3658,B738,Bremen,EDDW,Malaga,LEMG
+RYR4006,B738,Alicante,LEAL,Manchester,EGCC
+RYR4104,B738,Ben Gurion Int'l,LLBG,Paphos Int'l,LCPH
+RYR4156,B738,Alicante,LEAL,Cork Int'l,EICK
+RYR428,B738,Milan Rastislav Stefanik (Bratislava),LZIB,None,None
+RYR4469,B738,Malaga,LEMG,East Midlands,EGNX
+RYR4753,B738,Bristol Int'l,EGGD,Tenerife South (Reina Sofia),GCTS
+RYR748,B738,Birmingham Int'l,EGBB,Gdansk Lech Walesa,EPGD
+RYR7523,B738,Eindhoven,EHEH,Alicante,LEAL
+RYR7543,B738,Barcelona Int'l,LEBL,Manchester,EGCC
+RYR7724,B738,San Pablo,LEZL,Gran Canaria Int'l,GCLP
+RYR793,B738,Marco Polo Int'l (Marco Polo Venice),LIPZ,London Stansted,EGSS
+RYR8132,B738,London Stansted,EGSS,Gran Canaria Int'l,GCLP
+RYR8241,B738,Marco Polo Int'l (Marco Polo Venice),LIPZ,Bristol Int'l,EGGD
+RYR8288,B738,London Stansted,EGSS,Arrecife (Lanzarote),GCRR
+RYR8322,B738,Valencia,LEVC,London Stansted,EGSS
+RYR8343,B738,London Stansted,EGSS,Porto / Oporto,LPPR
+RYR8363,B738,London Stansted,EGSS,San Pablo,LEZL
+RYR8367,B738,Budapest Ferenc Liszt International Airport,LHBP,Barajas Int'l,LEMD
+RYR8383,B738,Alicante,LEAL,London Stansted,EGSS
+RYR8421,B738,Edinburgh,EGPH,El Matorral,GCFV
+RYR8511,B738,Dublin Int'l,EIDW,Hamburg,EDDH
+RYR8557,B738,Berlin,EDDB,Dublin Int'l,EIDW
+RYR8706,B738,Palese Macchie,LIBD,Brussels South Charleroi,EBCI
+RYR9114,B738,Kaunas Int'l,EYKA,Paphos Int'l,LCPH
+RYR9134,B738,Beauvais Tille,LFOB,Porto / Oporto,LPPR
+RYR9146,B738,Liverpool John Lennon,EGGP,Barcelona Int'l,LEBL
+RYR9169,B738,Hamburg,EDDH,Palma de Mallorca (or Son Sant Joan),LEPA
+RYR9176,B738,Ibiza,LEIB,Dublin Int'l,EIDW
+RYR9304,B738,Edinburgh,EGPH,Girona-Costa Brava,LEGE
+RYR936,B738,London Stansted,EGSS,Perpignan Rivesaltes,LFMP
+RYR9388,B738,East Midlands,EGNX,Barcelona Int'l,LEBL
+RYR9649,B738,Copernicus Wrocław,EPWR,Liverpool John Lennon,EGGP
+RYR9852,B738,Cork Int'l,EICK,London Gatwick,EGKK
+RYR9966,B738,Barajas Int'l,LEMD,Palermo Int'l (Punta Raisi Falcone-Borsellino),LICJ
+RYR4087,B738,Faro,LPFR,Manchester,EGCC
+RYR4266,B738,Dublin Int'l,EIDW,"Verona (Villafranca Int'l, Valerio Catullo)",LIPX
+RYR4566,B738,Brussels South Charleroi,EBCI,Figari Sud Corse,LFKF
+RYR4702,B738,Orio al Serio Int'l,LIME,Porto / Oporto,LPPR
+RYR4977,B738,Casale,LIBR,London Stansted,EGSS
+RYR4KF,B738,None,None,None,None
+RYR501,B738,Palma de Mallorca (or Son Sant Joan),LEPA,Vienna Int'l (Schwechat),LOWW
+RYR5159,B738,Newcastle,EGNT,Malaga,LEMG
+RYR5560,B738,Valencia,LEVC,Nantes Atlantique,LFRS
+RYR5573,B738,Bydgoszcz Ignacy Jan Paderewski,EPBY,Edinburgh,EGPH
+RYR591,B738,Malaga,LEMG,Vienna Int'l (Schwechat),LOWW
+RYR6313,B738,Faro,LPFR,Brussels South Charleroi,EBCI
+RYR6323,B738,Sofia Airport,LBSF,Orio al Serio Int'l,LIME
+RYR6624,B738,Edinburgh,EGPH,Krakow Int'l,EPKK
+RYR6695,B738,Edinburgh,EGPH,Malta Int'l (Luqa),LMML
+RYR6874,B738,Barcelona Int'l,LEBL,Dublin Int'l,EIDW
+RYR7034,B738,Dublin Int'l,EIDW,Faro,LPFR
+RYR7126,B738,Dublin Int'l,EIDW,Gran Canaria Int'l,GCLP
+RYR7128,B738,Dublin Int'l,EIDW,El Matorral,GCFV
+RYR7216,B738,Valencia,LEVC,Ibiza,LEIB
+RYR7257,B738,Barajas Int'l,LEMD,Dublin Int'l,EIDW
+RYR7286,B738,"Athens Int'l, Eleftherios Venizelos",LGAV,Vienna Int'l (Schwechat),LOWW
+RYR1022,B738,Modlin,EPMO,London Stansted,EGSS
+RYR1084,B738,Beauvais Tille,LFOB,General Humberto Delgado Airport,LPPT
+RYR1197,B738,Brussels South Charleroi,EBCI,"Athens Int'l, Eleftherios Venizelos",LGAV
+RYR1213,B738,Bydgoszcz Ignacy Jan Paderewski,EPBY,Birmingham Int'l,EGBB
+RYR1346,B738,Shannon,EINN,Tenerife South (Reina Sofia),GCTS
+RYR1387,B738,Porto / Oporto,LPPR,Brussels South Charleroi,EBCI
+RYR1792,B738,Luxembourg Int'l,ELLX,General Humberto Delgado Airport,LPPT
+RYR1966,B738,San Pablo,LEZL,Tenerife South (Reina Sofia),GCTS
+RYR1988,B738,Dublin Int'l,EIDW,Ioannis Kapodistrias Int'l,LGKR
+RYR2144,B738,London Luton,EGGW,Kaunas Int'l,EYKA
+RYR2155,B738,Región de Murcia International Airport,LEMI,Birmingham Int'l,EGBB
+RYR2203,B738,Leeds Bradford Int'l,EGNM,Modlin,EPMO
+RYR231,B738,Fertilia (Alghero),LIEA,London Stansted,EGSS
+RYR2326,B738,Leeds Bradford Int'l,EGNM,Palma de Mallorca (or Son Sant Joan),LEPA
+RYR2347,B738,Newcastle,EGNT,Palma de Mallorca (or Son Sant Joan),LEPA
+RYR2377,B738,Berlin,EDDB,Edinburgh,EGPH
+RYR2432,B738,London Stansted,EGSS,Krakow Int'l,EPKK
+RYR2643,B738,Riga Int'l,EVRA,London Stansted,EGSS
+RYR2862,B738,Porto / Oporto,LPPR,Luxembourg Int'l,ELLX
+RYR287,B738,Palanga Int'l,EYPA,London Stansted,EGSS
+RYR2933,B738,Brussels,EBBR,Alicante,LEAL
+RYR2966,B738,Barajas Int'l,LEMD,Vienna Int'l (Schwechat),LOWW
+RYR2986,B738,Valencia,LEVC,Brussels,EBBR
+RYR3141,B738,Marco Polo Int'l (Marco Polo Venice),LIPZ,Barcelona Int'l,LEBL
+RYR3172,B738,East Midlands,EGNX,Arrecife (Lanzarote),GCRR
+RYR3442,B738,Palma de Mallorca (or Son Sant Joan),LEPA,Manchester,EGCC
+RYR3843,B738,Reus,LERS,London Stansted,EGSS
+RYR3852,B738,East Midlands,EGNX,"Rhodes Int'l, Diagoras",LGRP
+RYR3854,B738,East Midlands,EGNX,Ioannis Kapodistrias Int'l,LGKR
+RYR8162,B738,London Stansted,EGSS,Malaga,LEMG
+RYR8166,B738,London Stansted,EGSS,Tenerife South (Reina Sofia),GCTS
+RYR8182,B738,London Stansted,EGSS,El Matorral,GCFV
+RYR8209,B738,Bournemouth,EGHH,Václav Havel Airport,LKPR
+RYR8234,B738,Bristol Int'l,EGGD,Palma de Mallorca (or Son Sant Joan),LEPA
+RYR8405,B738,London Stansted,EGSS,Copernicus Wrocław,EPWR
+RYR8743,B738,Bournemouth,EGHH,Malta Int'l (Luqa),LMML
+RYR8858,B738,General Humberto Delgado Airport,LPPT,Budapest Ferenc Liszt International Airport,LHBP
+RYR9056,B738,Alicante,LEAL,Bremen,EDDW
+RYR9142,B738,London Stansted,EGSS,Faro,LPFR
+RYR9336,B738,Bristol Int'l,EGGD,Girona-Costa Brava,LEGE
+RYR9673,B738,Ciampino (Giovan Battista Pastine),LIRA,Barajas Int'l,LEMD
+RYR9810,B738,London Stansted,EGSS,Barcelona Int'l,LEBL
+RYR9892,B738,Liverpool John Lennon,EGGP,Malaga,LEMG
+RYR9MX,B738,None,None,None,None
+RYR3901,B738,Birmingham Int'l,EGBB,Malta Int'l (Luqa),LMML
+RYR4205,B738,Liverpool John Lennon,EGGP,Ioannis Kapodistrias Int'l,LGKR
+RYR4283,B738,Milan Rastislav Stefanik (Bratislava),LZIB,Dublin Int'l,EIDW
+RYR4554,B738,Naples Int'l (Capodichino),LIRN,Modlin,EPMO
+RYR4585,B738,Barcelona Int'l,LEBL,Porto / Oporto,LPPR
+RYR4755,B738,Bristol Int'l,EGGD,Arrecife (Lanzarote),GCRR
+RYR5160,B738,Edinburgh,EGPH,Sofia Airport,LBSF
+RYR5610,B738,Dublin Int'l,EIDW,Palanga Int'l,EYPA
+RYR5710,B738,Barcelona Int'l,LEBL,Naples Int'l (Capodichino),LIRN
+RYR584,B738,London Stansted,EGSS,None,None
+RYR5994,B738,London Stansted,EGSS,Barajas Int'l,LEMD
+RYR603,B738,"Rhodes Int'l, Diagoras",LGRP,Vienna Int'l (Schwechat),LOWW
+RYR6386,B738,Barcelona Int'l,LEBL,Malaga,LEMG
+RYR6420,B738,Barajas Int'l,LEMD,Kyiv Boryspil Int'l,UKBB
+RYR6456,B738,Brussels South Charleroi,EBCI,Ibiza,LEIB
+RYR6656,B738,Edinburgh,EGPH,Palma de Mallorca (or Son Sant Joan),LEPA
+RYR6835,B738,Manchester,EGCC,Naples Int'l (Capodichino),LIRN
+RYR7044,B738,Dublin Int'l,EIDW,Malaga,LEMG
+RYR7124,B738,Dublin Int'l,EIDW,Arrecife (Lanzarote),GCRR
+RYR7161,B738,Vienna Int'l (Schwechat),LOWW,Ben Gurion Int'l,LLBG
+RYR7330,B738,Vienna Int'l (Schwechat),LOWW,"Kos Island Int'l, Ippokratis (Hippocrates)",LGKO
+RYR7384,B738,London Stansted,EGSS,Copenhagen,EKCH
+RYR7411,B738,Faro,LPFR,Eindhoven,EHEH
+RYR7417,B738,Faro,LPFR,Beauvais Tille,LFOB
+RYR7784,B738,London Luton,EGGW,Malaga,LEMG
+RYR8005,B738,Alicante,LEAL,Aberdeen,EGPD
+RYR1021,B738,London Stansted,EGSS,Modlin,EPMO
+RYR1058,B738,Modlin,EPMO,Brussels South Charleroi,EBCI
+RYR1121,B738,Birmingham Int'l,EGBB,Tenerife South (Reina Sofia),GCTS
+RYR121,B738,London Gatwick,EGKK,Dublin Int'l,EIDW
+RYR1260,B738,"Athens Int'l, Eleftherios Venizelos",LGAV,Orio al Serio Int'l,LIME
+RYR1494,B738,Alicante,LEAL,Pardubice,LKPD
+RYR1879,B738,"Thessaloniki Int'l, Makedonia",LGTS,Allgau,EDJA
+RYR2131,B738,Manchester,EGCC,Arrecife (Lanzarote),GCRR
+RYR2328,B738,Leeds Bradford Int'l,EGNM,Limoges-Bellegarde,LFBL
+RYR2336,B738,London Stansted,EGSS,Poznań-Ławica,EPPO
+RYR2547,B738,Malaga,LEMG,Stockholm-Skavsta,ESKN
+RYR2622,B738,Ponta Delgada Joao Paulo II,LPPD,General Humberto Delgado Airport,LPPT
+RYR2626,B738,Manchester,EGCC,Ibiza,LEIB
+RYR2714,B738,Alicante,LEAL,London Gatwick,EGKK
+RYR2829,B738,Reus,LERS,Brussels South Charleroi,EBCI
+RYR2917,B738,Brussels,EBBR,Barcelona Int'l,LEBL
+RYR2929,B738,Porto / Oporto,LPPR,Brussels,EBBR
+RYR3101,B738,Amsterdam Schiphol,EHAM,Dublin Int'l,EIDW
+RYR3186,B738,Barajas Int'l,LEMD,Manchester,EGCC
+RYR3216,B738,Manchester,EGCC,Orio al Serio Int'l,LIME
+RYR3541,B738,Eindhoven,EHEH,Ibiza,LEIB
+RYR3712,B738,Faro,LPFR,Birmingham Int'l,EGBB
+RYR1080,B738,London Stansted,EGSS,General Humberto Delgado Airport,LPPT
+RYR1083,B738,General Humberto Delgado Airport,LPPT,Beauvais Tille,LFOB
+RYR1126,B738,Santiago de Compostela,LEST,Tenerife South (Reina Sofia),GCTS
+RYR1196,B738,"Athens Int'l, Eleftherios Venizelos",LGAV,Brussels South Charleroi,EBCI
+RYR120,B738,Dublin Int'l,EIDW,London Gatwick,EGKK
+RYR1212,B738,Birmingham Int'l,EGBB,Bydgoszcz Ignacy Jan Paderewski,EPBY
+RYR1314,B738,Malaga,LEMG,Belfast Int'l,EGAA
+RYR1791,B738,General Humberto Delgado Airport,LPPT,Luxembourg Int'l,ELLX
+RYR1CL,B738,None,None,None,None
+RYR202,B738,Dublin Int'l,EIDW,London Stansted,EGSS
+RYR203,B738,"Athens Int'l, Eleftherios Venizelos",LGAV,None,None
+RYR2154,B738,Birmingham Int'l,EGBB,Región de Murcia International Airport,LEMI
+RYR2192,B738,London Southend,EGMC,Malaga,LEMG
+RYR232,B738,London Stansted,EGSS,Fertilia (Alghero),LIEA
+RYR2327,B738,Palma de Mallorca (or Son Sant Joan),LEPA,Leeds Bradford Int'l,EGNM
+RYR2346,B738,Palma de Mallorca (or Son Sant Joan),LEPA,Newcastle,EGNT
+RYR2376,B738,Edinburgh,EGPH,Berlin,EDDB
+RYR2642,B738,London Stansted,EGSS,Riga Int'l,EVRA
+RYR286,B738,London Stansted,EGSS,Palanga Int'l,EYPA
+RYR2934,B738,Alicante,LEAL,Brussels,EBBR
+RYR2985,B738,Brussels,EBBR,Valencia,LEVC
+RYR30,B738,Int'l Katowice in Pyrzowice,EPKT,None,None
+RYR3100,B738,Dublin Int'l,EIDW,Amsterdam Schiphol,EHAM
+RYR3233,B738,Malaga,LEMG,Manchester,EGCC
+RYR3441,B738,Manchester,EGCC,Palma de Mallorca (or Son Sant Joan),LEPA
+RYR3542,B738,Ibiza,LEIB,Eindhoven,EHEH
+RYR3659,B738,Malaga,LEMG,Bremen,EDDW
+RYR4007,B738,Manchester,EGCC,Alicante,LEAL
+RYR4047,B738,Malaga,LEMG,Copenhagen,EKCH
+RYR4157,B738,Cork Int'l,EICK,Alicante,LEAL
+RYR9113,B738,Paphos Int'l,LCPH,Kaunas Int'l,EYKA
+RYR1129,B738,Gran Canaria Int'l,GCLP,Birmingham Int'l,EGBB
+RYR118,B738,Dublin Int'l,EIDW,London Gatwick,EGKK
+RYR1228,B738,Reus,LERS,Manchester,EGCC
+RYR1345,B738,Arrecife (Lanzarote),GCRR,Shannon,EINN
+RYR1393,B738,"Oslo, Gardermoen",ENGM,London Stansted,EGSS
+RYR1767,B738,Faro,LPFR,East Midlands,EGNX
+RYR1803,B738,Ioannis Kapodistrias Int'l,LGKR,London Stansted,EGSS
+RYR1874,B738,London Stansted,EGSS,Nice Cote d'Azur,LFMN
+RYR1882,B738,London Stansted,EGSS,General Humberto Delgado Airport,LPPT
+RYR2012,B738,Gran Canaria Int'l,GCLP,Barajas Int'l,LEMD
+RYR2061,B738,Barajas Int'l,LEMD,Palma de Mallorca (or Son Sant Joan),LEPA
+RYR2162,B738,Birmingham Int'l,EGBB,Palma de Mallorca (or Son Sant Joan),LEPA
+RYR2241,B738,Bologna (Guglielmo Marconi),LIPE,Manchester,EGCC
+RYR2365,B738,Faro,LPFR,Vienna Int'l (Schwechat),LOWW
+RYR2466,B738,London Stansted,EGSS,Szczecin,EPSC
+RYR2525,B738,Goteborg,ESGG,Malaga,LEMG
+RYR2564,B738,"Sandefjord, Torp",ENTO,Malaga,LEMG
+RYR2576,B738,Eindhoven,EHEH,Malaga,LEMG
+RYR2578,B738,Stockholm,ESOW,Malaga,LEMG
+RYR2610,B738,"Athens Int'l, Eleftherios Venizelos",LGAV,None,None
+RYR2645,B738,Riga Int'l,EVRA,London Stansted,EGSS
+RYR3131,B738,London Stansted,EGSS,Paphos Int'l,LCPH
+RYR3153,B738,Tenerife South (Reina Sofia),GCTS,East Midlands,EGNX
+RYR3206,B738,Manchester,EGCC,Ciampino (Giovan Battista Pastine),LIRA
+RYR3702,B738,El Matorral,GCFV,East Midlands,EGNX
+RYR4026,B738,Hamburg,EDDH,Alicante,LEAL
+RYR4030,B738,Leonardo da Vinci Int'l (Fiumicino Int'l),LIRF,Alicante,LEAL
+RYR4058,B738,Hamburg,EDDH,Malaga,LEMG
+RYR4117,B738,Región de Murcia International Airport,LEMI,Manchester,EGCC
+RYR4204,B738,Glasgow Int'l,EGPF,Krakow Int'l,EPKK
+RYR4331,B738,Tenerife South (Reina Sofia),GCTS,Manchester,EGCC
+RYR4590,B738,Gran Canaria Int'l,GCLP,Santiago de Compostela,LEST
+RYR4810,B738,Baden Airpark,EDSB,"Athens Int'l, Eleftherios Venizelos",LGAV
+RYR551,B738,"Chania Int'l, Ioannis Daskalogiannis",LGSA,Vienna Int'l (Schwechat),LOWW
+RYR5984,B738,Orio al Serio Int'l,LIME,Barajas Int'l,LEMD
+RYR6014,B738,Eindhoven,EHEH,Sofia Airport,LBSF
